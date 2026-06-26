@@ -1,0 +1,6 @@
+# VS Code settings
+.vscode/
+
+# Pipenv files
+Pipfile
+Pipfile.lock
